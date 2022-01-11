@@ -1,0 +1,402 @@
+Eric Hosmer,1B,28.2,L,L,KC,SD,8,"$144,000,000","$18,000,000"
+Yu Darvish,SP,31.4,R,R,LAD,CHC,6,"$126,000,000","$21,000,000"
+J.D. Martinez,DH,30.4,R,R,ARI,BOS,5,"$110,000,000","$22,000,000"
+Lorenzo Cain,CF,31.8,R,R,KC,MIL,5,"$80,000,000","$16,000,000"
+Jake Arrieta,SP,32.0,R,R,CHC,PHI,3,"$75,000,000","$25,000,000"
+Carlos Santana,1B,31.7,S,R,CLE,PHI,3,"$60,000,000","$20,000,000"
+Alex Cobb,SP,30.4,R,R,TB,BAL,4,"$57,000,000","$14,250,000"
+Wade Davis,RP,32.2,R,R,CHC,COL,3,"$52,000,000","$17,333,333"
+Jay Bruce,RF,30.8,L,L,CLE,NYM,3,"$39,000,000","$13,000,000"
+Zack Cozart,3B,32.3,R,R,CIN,LAA,3,"$38,000,000","$12,666,667"
+Tyler Chatwood,RP,27.9,R,R,COL,CHC,3,"$38,000,000","$12,666,667"
+Mike Minor,SP,29.9,R,L,KC,TEX,3,"$28,000,000","$9,333,333"
+Bryan Shaw,RP,30.1,S,R,CLE,COL,3,"$27,000,000","$9,000,000"
+Jake McGee,RP,31.3,L,L,COL,COL,3,"$27,000,000","$9,000,000"
+Brandon Morrow,RP,33.3,R,R,LAD,CHC,2,"$21,000,000","$10,500,000"
+Tommy Hunter,RP,31.4,R,R,TB,PHI,2,"$18,000,000","$9,000,000"
+Todd Frazier,3B,31.9,R,R,NYY,NYM,2,"$17,000,000","$8,500,000"
+Juan Nicasio,RP,31.2,R,R,STL,SEA,2,"$17,000,000","$8,500,000"
+Addison Reed,RP,29.0,L,R,BOS,MIN,2,"$16,750,000","$8,375,000"
+Pat Neshek,RP,37.2,S,R,COL,PHI,2,"$16,200,000","$8,100,000"
+Jason Vargas,SP,35.0,L,L,KC,NYM,2,"$16,000,000","$8,000,000"
+Andrew Cashner,RP,31.4,R,R,TEX,BAL,2,"$16,000,000","$8,000,000"
+Yonder Alonso,1B,30.7,L,R,SEA,CLE,2,"$16,000,000","$8,000,000"
+Jhoulys Chacin,SP,29.9,R,R,SD,MIL,2,"$15,500,000","$7,750,000"
+Joe Smith,RP,33.7,R,R,CLE,HOU,2,"$15,000,000","$7,500,000"
+Welington Castillo,C,30.6,R,R,BAL,CHW,2,"$15,000,000","$7,500,000"
+Greg Holland,RP,32.3,R,R,COL,STL,1,"$14,000,000","$14,000,000"
+Anthony Swarzak,RP,32.2,R,R,MIL,NYM,2,"$14,000,000","$7,000,000"
+Mitch Moreland,1B,32.2,L,L,BOS,BOS,2,"$13,000,000","$6,500,000"
+Steve Cishek,RP,31.4,R,R,SEA,CHC,2,"$13,000,000","$6,500,000"
+Lance Lynn,SP,30.8,S,R,STL,MIN,1,"$12,000,000","$12,000,000"
+Luke Gregerson,RP,33.5,L,R,HOU,STL,2,"$11,000,000","$5,500,000"
+Jaime Garcia,RP,31.6,L,L,NYY,TOR,1,"$10,000,000","$10,000,000"
+C.C. Sabathia,SP,37.3,L,L,NYY,NYY,1,"$10,000,000","$10,000,000"
+Brandon Kintzler,RP,33.3,R,R,WSH,WSH,2,"$10,000,000","$5,000,000"
+Drew Smyly,SP,28.5,L,L,SEA,CHC,2,"$10,000,000","$5,000,000"
+Michael Pineda,SP,28.8,R,R,NYY,MIN,2,"$10,000,000","$5,000,000"
+Yusmeiro Petit,RP,33.0,R,R,LAA,OAK,2,"$10,000,000","$5,000,000"
+Tony Watson,RP,32.7,L,L,LAD,SF,3,"$9,000,000","$3,000,000"
+Hector Rondon,RP,29.8,R,R,CHC,HOU,2,"$8,500,000","$4,250,000"
+Chris Iannetta,C,34.7,R,R,ARI,COL,2,"$8,500,000","$4,250,000"
+Alex Avila,C,31.0,L,R,CHC,ARI,2,"$8,250,000","$4,125,000"
+Carlos Gonzalez,RF,32.3,L,L,COL,COL,1,"$8,000,000","$8,000,000"
+Eduardo Nunez,3B,30.7,R,R,BOS,BOS,2,"$8,000,000","$4,000,000"
+Jarrod Dyson,CF,33.5,L,R,SEA,ARI,2,"$7,500,000","$3,750,000"
+Brian Duensing,RP,34.8,L,L,CHC,CHC,2,"$7,000,000","$3,500,000"
+Howie Kendrick,2B,34.5,R,R,WSH,WSH,2,"$7,000,000","$3,500,000"
+Jonathan Lucroy,C,31.7,R,R,COL,OAK,1,"$6,500,000","$6,500,000"
+Mike Moustakas,3B,29.4,L,R,KC,KC,1,"$6,500,000","$6,500,000"
+Logan Morrison,DH,30.5,L,L,TB,MIN,1,"$6,500,000","$6,500,000"
+Michael Fiers,SP,32.4,R,R,HOU,DET,1,"$6,000,000","$6,000,000"
+David Hernandez,RP,32.7,R,R,ARI,CIN,2,"$5,000,000","$2,500,000"
+Matt Albers,RP,35.0,L,R,WSH,MIL,2,"$5,000,000","$2,500,000"
+Curtis Granderson,LF,36.8,L,R,LAD,TOR,1,"$5,000,000","$5,000,000"
+Miguel Gonzalez,SP,33.6,R,R,TEX,CHW,1,"$4,750,000","$4,750,000"
+Craig Stammen,RP,33.8,R,R,SD,SD,2,"$4,500,000","$2,250,000"
+Jared Hughes,RP,32.4,R,R,MIL,CIN,2,"$4,500,000","$2,250,000"
+Fernando Rodney,RP,40.7,R,R,ARI,MIN,1,"$4,500,000","$4,500,000"
+Brett Anderson (minor),SP,30.1,L,L,TOR,OAK,1,"$4,000,000","$4,000,000"
+Neil Walker,2B,32.5,S,R,MIL,NYY,1,"$4,000,000","$4,000,000"
+Francisco Liriano,RP,34.2,L,L,HOU,DET,1,"$4,000,000","$4,000,000"
+Carlos Gomez,RF,32.2,R,R,TEX,TB,1,"$4,000,000","$4,000,000"
+Matt Adams,1B,29.2,L,R,ATL,WSH,1,"$4,000,000","$4,000,000"
+Doug Fister,SP,33.8,L,R,BOS,TEX,1,"$4,000,000","$4,000,000"
+Lucas Duda,1B,32.0,L,R,TB,KC,1,"$3,500,000","$3,500,000"
+Cameron Maybin,RF,30.8,R,R,HOU,MIA,1,"$3,250,000","$3,250,000"
+Colby Rasmus (minor),LF,31.5,L,L,TB,BAL,1,"$3,000,000","$3,000,000"
+Bud Norris,RP,32.9,R,R,LAA,STL,1,"$3,000,000","$3,000,000"
+Rene Rivera,C,34.4,R,R,CHC,LAA,1,"$2,800,000","$2,800,000"
+Fernando Abad (minor),RP,32.2,L,L,BOS,PHI,1,"$2,500,000","$2,500,000"
+Anibal Sanchez,SP,33.9,R,R,DET,MIN,1,"$2,500,000","$2,500,000"
+Wade Miley (minor),SP,31.2,L,L,BAL,MIL,1,"$2,500,000","$2,500,000"
+Sergio Romo,RP,34.9,R,R,TB,TB,1,"$2,500,000","$2,500,000"
+Francisco Rodriguez (minor),RP,36.0,R,R,WSH,PHI,1,"$2,500,000","$2,500,000"
+Alcides Escobar,SS,31.1,R,R,KC,KC,1,"$2,500,000","$2,500,000"
+Boone Logan,RP,33.3,R,L,CLE,MIL,1,"$2,500,000","$2,500,000"
+Nick Hundley,C,34.2,R,R,SF,SF,1,"$2,500,000","$2,500,000"
+Jorge De La Rosa (minor),RP,36.8,L,L,ARI,ARI,1,"$2,250,000","$2,250,000"
+Jeremy Hellickson (minor),RP,30.9,R,R,BAL,WSH,1,"$2,000,000","$2,000,000"
+Adam Lind (minor),1B,34.6,L,L,WSH,NYY,1,"$2,000,000","$2,000,000"
+Seung-Hwan Oh,RP,35.6,R,R,STL,TOR,1,"$2,000,000","$2,000,000"
+Chris Young,RF,34.4,R,R,BOS,LAA,1,"$2,000,000","$2,000,000"
+Chase Utley,2B,39.1,L,R,LAD,LAD,2,"$2,000,000","$1,000,000"
+Jose Reyes,SS,34.6,S,R,NYM,NYM,1,"$2,000,000","$2,000,000"
+Tom Koehler,RP,31.8,R,R,TOR,LAD,1,"$2,000,000","$2,000,000"
+Ryan Flaherty (minor),3B,31.5,L,R,BAL,PHI,1,"$1,900,000","$1,900,000"
+Mike Napoli (minor),1B,36.3,R,R,TEX,CLE,1,"$1,750,000","$1,750,000"
+Chris Carter (minor),1B,31.2,R,R,OAK,LAA,1,"$1,750,000","$1,750,000"
+Bartolo Colon (minor),SP,44.7,R,R,MIN,TEX,1,"$1,750,000","$1,750,000"
+Leonys Martin,CF,29.7,L,R,CHC,DET,1,"$1,750,000","$1,750,000"
+Wily Peralta,RP,28.5,R,R,MIL,KC,1,"$1,525,000","$1,525,000"
+Edwin Jackson (minor),SP,34.7,R,R,WSH,OAK,1,"$1,500,000","$1,500,000"
+Trevor Plouffe (minor),3B,31.8,R,R,TB,PHI,1,"$1,500,000","$1,500,000"
+Michael Saunders (minor),LF,31.3,L,R,KC,BAL,1,"$1,500,000","$1,500,000"
+Clay Buchholz,SP,33.6,L,R,PHI,KC,1,"$1,500,000","$1,500,000"
+Trevor Cahill,RP,30.0,R,R,KC,OAK,1,"$1,500,000","$1,500,000"
+Tyler Clippard (minor),RP,33.0,R,R,HOU,TOR,1,"$1,500,000","$1,500,000"
+Ricky Nolasco (minor),SP,35.2,R,R,LAA,KC,1,"$1,500,000","$1,500,000"
+Matt Belisle (minor),RP,37.7,R,R,MIN,CLE,1,"$1,500,000","$1,500,000"
+Kevin Siegrist (minor),RP,28.6,L,L,PHI,PIT,1,"$1,500,000","$1,500,000"
+Jesse Chavez,RP,34.5,R,R,LAA,TEX,1,"$1,500,000","$1,500,000"
+Cliff Pennington (minor),SS,33.7,S,R,LAA,CIN,1,"$1,500,000","$1,500,000"
+Fernando Salas (minor),RP,32.6,R,R,LAA,ARI,1,"$1,500,000","$1,500,000"
+Tony Barnette,RP,34.0,R,R,TEX,TEX,1,"$1,500,000","$1,500,000"
+Peter Bourjos (minor),RF,30.8,R,R,TB,CHC,1,"$1,450,000","$1,450,000"
+Jake Petricka (minor),RP,29.7,R,R,CHW,TOR,1,"$1,300,000","$1,300,000"
+Miguel Montero,C,34.5,L,R,TOR,WSH,1,"$1,300,000","$1,300,000"
+Justin Grimm,RP,29.6,R,R,CHC,KC,1,"$1,250,000","$1,250,000"
+Erick Aybar (minor),SS,34.1,B,R,SD,MIN,1,"$1,250,000","$1,250,000"
+Craig Breslow (minor),RP,37.5,L,L,CLE,TOR,1,"$1,250,000","$1,250,000"
+Darwin Barney (minor),SS,32.2,R,R,TOR,TEX,1,"$1,250,000","$1,250,000"
+Jose Lobaton (minor),C,33.1,S,R,WSH,NYM,1,"$1,250,000","$1,250,000"
+Danny Valencia (minor),3B,33.4,R,R,SEA,BAL,1,"$1,200,000","$1,200,000"
+Andres Blanco (minor),3B,33.8,S,R,PHI,SF,1,"$1,100,000","$1,100,000"
+Kris Medlen (minor),SP,32.2,S,R,ATL,ARI,1,"$1,100,000","$1,100,000"
+J.J. Hoover (minor),RP,30.3,R,R,ARI,MIL,1,"$1,100,000","$1,100,000"
+Robbie Ross (minor),RP,28.7,L,L,BOS,CHW,1,"$1,050,000","$1,050,000"
+Xavier Cedeno (minor),RP,31.4,L,L,TB,CHW,1,"$1,050,000","$1,050,000"
+Melky Cabrera (minor),LF,33.7,S,L,KC,CLE,1,"$1,000,000","$1,000,000"
+Peter Bourjos,RF,30.9,R,R,CHC,ATL,1,"$1,000,000","$1,000,000"
+Anibal Sanchez (minor),SP,34.0,R,R,MIN,ATL,1,"$1,000,000","$1,000,000"
+Pedro Alvarez (minor),1B,31.0,L,R,BAL,BAL,1,"$1,000,000","$1,000,000"
+Joaquin Benoit,RP,40.6,R,R,PIT,WSH,1,"$1,000,000","$1,000,000"
+Gregor Blanco (minor),RF,34.1,L,L,ARI,SF,1,"$1,000,000","$1,000,000"
+Jordan Lyles,SP,27.1,R,R,SD,SD,1,"$1,000,000","$1,000,000"
+Shane Robinson (minor),CF,33.2,R,R,LAA,NYY,1,"$950,000","$950,000"
+Craig Gentry (minor),LF,34.2,R,R,BAL,BAL,1,"$900,000","$900,000"
+Alejandro De Aza (minor),LF,33.8,L,L,WSH,WSH,1,"$800,000","$800,000"
+Yovani Gallardo,SP,32.1,R,R,MIL,CIN,1,"$750,000","$750,000"
+Dan Jennings,RP,30.9,L,L,TB,MIL,1,"$750,000","$750,000"
+Ryan Flaherty,3B,31.6,L,R,PHI,ATL,1,"$750,000","$750,000"
+Ichiro Suzuki,LF,44.3,L,R,MIA,SEA,1,"$750,000","$750,000"
+Anthony Recker (minor),C,34.5,R,R,MIN,ARI,1,"$750,000","$750,000"
+A.J. Griffin (minor),RP,30.0,R,R,TEX,NYM,1,"$750,000","$750,000"
+Shae Simmons (minor),RP,27.4,R,R,SEA,CHC,1,"$750,000","$750,000"
+Edward Mujica (minor),RP,33.7,R,R,DET,STL,1,"$750,000","$750,000"
+Wade LeBlanc (minor),SP,33.6,L,L,NYY,SEA,1,"$650,000","$650,000"
+Ezequiel Carrera (minor),LF,30.8,L,L,TOR,ATL,1,"$650,000","$650,000"
+Jarrod Saltalamacchia (minor),C,33.0,S,R,TOR,DET,1,"$650,000","$650,000"
+Peter Moylan,RP,39.2,R,R,KC,ATL,1,"$575,000","$575,000"
+Chris Stewart,C,35.9,R,R,PIT,ATL,1,"$575,000","$575,000"
+Nick Tepesch (minor),SP,29.3,R,R,TOR,TOR,1,"$572,300","$572,300"
+Austin Jackson,CF,31.4,R,R,TEX,NYM,1,"$545,000","$545,000"
+Jose Bautista,RF,37.6,R,R,ATL,NYM,1,"$545,000","$545,000"
+Daniel Hudson (minor),RP,31.0,R,R,TB,LAD,1,"$545,000","$545,000"
+Adrian Gonzalez,1B,35.7,L,L,ATL,NYM,1,"$545,000","$545,000"
+Dario Alvarez,RP,28.8,L,L,TEX,CHC,1,"$545,000","$545,000"
+Jaime Garcia (minor),RP,32.1,L,L,TOR,CHC,-,-,-
+Chris Tillman (minor),SP,30.2,R,R,BAL,TEX,-,-,-
+Matt Holliday (minor),OF,38.5,R,R,NYY,COL,-,-,-
+Mauricio Cabrera (minor),RP,24.8,R,R,ATL,CHW,-,-,-
+Junichi Tazawa (minor),RP,32.1,R,R,DET,LAA,-,-,-
+Juan Graterol (minor),C,29.3,R,R,LAA,MIN,-,-,-
+Brandon Phillips (minor),2B,36.9,R,R,LAA,BOS,1,-,-
+Hunter Cervenka (minor),RP,28.4,L,L,BAL,DET,-,-,-
+Cameron Rupp (minor),C,29.7,R,R,TEX,MIN,-,-,-
+George Kontos (minor),RP,32.9,R,R,PIT,CLE,-,-,-
+Ryan Hanigan (minor),C,37.8,R,R,CLE,SF,-,-,-
+Brett Oberholtzer (minor),RP,28.8,L,L,TOR,COL,-,-,-
+Tuffy Gosewisch (minor),C,34.6,R,R,SEA,WSH,-,-,-
+Mark Reynolds (minor),3B,34.7,R,R,COL,WSH,1,-,-
+Yovani Gallardo (minor),SP,32.1,R,R,CIN,TEX,1,-,-
+Chris Herrmann (minor),C,30.3,L,R,ARI,SEA,-,-,-
+Ben Revere (minor),CF,29.8,L,R,CIN,LAA,-,-,-
+Carlos Torres (minor),RP,35.4,R,R,CLE,WSH,1,-,-
+Adam Rosales (minor),2B,34.8,R,R,PHI,CLE,-,-,-
+Jayson Werth,LF,38.8,R,R,WSH,SEA,-,-,-
+Alexi Amarista (minor),SS,28.9,L,R,DET,PHI,-,-,-
+Manny Parra (minor),RP,35.2,L,L,CHC,SF,1,-,-
+Alex Presley (minor),LF,32.5,L,L,DET,BAL,1,-,-
+Cesar Ramos (minor),RP,33.6,L,L,PHI,LAD,1,-,-
+Edinson Volquez (minor),RP,34.6,R,R,MIA,TEX,2,-,-
+Jason Motte (minor),RP,35.6,R,R,ATL,STL,-,-,-
+Matt den Dekker (minor),CF,30.5,L,L,DET,NYM,1,-,-
+A.J. Ellis (minor),C,36.8,R,R,MIA,SD,1,-,-
+Hector Santiago (minor),RP,30.1,R,L,MIN,CHW,1,-,-
+Blaine Boyer (minor),RP,36.5,R,R,BOS,KC,-,-,-
+Daniel Nava (minor),LF,34.9,S,L,PHI,PIT,1,-,-
+Tom Wilhelmsen (minor),RP,34.1,R,R,MIL,SD,1,-,-
+Dan Runzler (minor),RP,32.8,,,PIT,TB,1,-,-
+Bruce Rondon (minor),RP,27.1,R,R,DET,CHW,1,-,-
+Mark Lowe (minor),RP,34.6,L,R,CHW,LAD,-,-,-
+Efren Navarro (minor),1B,31.7,L,L,DET,CHC,1,-,-
+Travis Wood (minor),SP,30.9,R,L,SD,DET,1,-,-
+Ryan Weber (minor),SP,27.4,R,R,SEA,TB,-,-,-
+Rhiner Cruz (minor),RP,31.2,R,R,HOU,TOR,1,-,-
+Ty Kelly (minor),3B,29.5,S,R,PHI,NYM,1,-,-
+Ryan Lavarnway (minor),C,30.4,R,R,OAK,PIT,1,-,-
+Carlos Frias (minor),RP,28.2,R,R,CLE,CLE,1,-,-
+Chris Volstad (minor),RP,31.2,R,R,CHW,CHW,1,-,-
+T.J. House (minor),RP,28.2,R,L,TOR,CHW,1,-,-
+Michael Blazek (minor),RP,28.8,R,R,MIL,ARI,-,-,-
+Michael Ynoa (minor),RP,26.2,R,R,CHW,CHW,1,-,-
+Ernesto Frieri (minor),RP,32.4,R,R,SEA,MIL,-,-,-
+James Russell (minor),RP,32.0,L,L,CLE,DET,1,-,-
+Brayan Pena (minor),C,36.0,S,R,KC,DET,1,-,-
+Steve Lombardozzi (minor),2B,29.2,S,R,MIA,OAK,1,-,-
+Zach Neal (minor),RP,29.1,R,R,OAK,LAD,1,-,-
+Pedro Beato (minor),RP,31.1,R,R,PHI,PHI,1,-,-
+Tim Melville (minor),SP,28.2,R,R,SD,BAL,1,-,-
+Taylor Featherston (minor),2B,28.2,R,R,TB,MIN,1,-,-
+Kevin Jepsen (minor),RP,33.3,R,R,WSH,TEX,1,-,-
+Cesar Puello (minor),RF,26.7,R,R,TB,ARI,1,-,-
+Simon Castro (minor),RP,29.6,,,OAK,OAK,1,-,-
+Jim Adduci (minor),CF,32.5,L,L,DET,DET,1,-,-
+Johnny Giavotella (minor),2B,30.3,R,R,BAL,MIA,1,-,-
+Rob Scahill (minor),RP,30.8,L,R,MIL,CHW,1,-,-
+Bryan Holaday (minor),C,30.0,R,R,DET,MIA,-,-,-
+Bobby Wilson (minor),C,34.6,R,R,LAD,MIN,1,-,-
+Jhan Marinez (minor),RP,29.2,R,R,TEX,BAL,-,-,-
+Michael Brady (minor),RP,30.7,,,OAK,MIL,1,-,-
+Niko Goodrum (minor),2B,25.7,S,R,MIN,DET,1,-,-
+Jeff Beliveau (minor),RP,30.8,L,L,TOR,CLE,1,-,-
+Vidal Nuno (minor),RP,30.2,L,L,BAL,TB,1,-,-
+Kevin Quackenbush (minor),RP,28.9,R,R,SD,CIN,1,-,-
+Hanley Ramirez,1B,34.9,R,R,BOS,TBD,-,,
+Adrian Gonzalez,1B,36.5,L,L,NYM,TBD,-,,
+Scott Kazmir,SP,34.8,L,L,ATL,TBD,-,,
+John Lackey,SP,40.0,R,R,CHC,TBD,-,,
+Phil Hughes,RP,32.4,R,R,SD,TBD,-,,
+J.J. Hardy,SS,36.2,R,R,BAL,TBD,-,,
+Chase Headley,3B,34.5,S,R,SD,TBD,-,,
+Ubaldo Jimenez,SP,34.8,R,R,BAL,TBD,-,,
+Matt Garza,SP,34.9,R,R,MIL,TBD,-,,
+Ricky Nolasco,SP,35.9,R,R,KC,TBD,-,,
+Miguel Montero,C,35.3,L,R,WSH,TBD,-,,
+Ryan Howard,1B,39.0,L,L,COL,TBD,-,,
+Huston Street,RP,35.2,R,R,LAA,TBD,-,,
+Carlos Ruiz,C,39.8,R,R,SEA,TBD,-,,
+Mike Napoli,1B,37.0,R,R,CLE,TBD,-,,
+R.A. Dickey,SP,44.0,R,R,ATL,TBD,-,,
+Luis Valbuena,3B,32.9,L,R,LAA,TBD,-,,
+Seth Smith,RF,36.1,L,L,BAL,TBD,-,,
+Yunel Escobar,3B,36.0,R,R,LAA,TBD,-,,
+Boone Logan,RP,34.2,R,L,MIL,TBD,-,,
+Trevor Rosenthal,RP,28.4,R,R,STL,TBD,-,,
+Koji Uehara,RP,43.6,R,R,CHC,TBD,-,,
+Rajai Davis,CF,38.0,R,R,BOS,TBD,-,,
+Travis Wood,SP,31.7,R,L,DET,TBD,-,,
+Brandon Moss,DH,35.1,L,R,OAK,TBD,-,,
+Sean Rodriguez,2B,33.5,R,R,PIT,TBD,-,,
+Danny Valencia,3B,34.1,R,R,BAL,TBD,-,,
+Trevor Plouffe,3B,32.4,R,R,TEX,TBD,-,,
+Joe Blanton,RP,37.9,R,R,WSH,TBD,-,,
+John Jaso,RF,35.1,L,R,PIT,TBD,-,,
+Jason Grilli,RP,42.0,R,R,TEX,TBD,-,,
+Brad Miller,2B,29.0,L,R,MIL,TBD,-,,
+Oliver Perez,RP,37.2,L,L,WSH,TBD,-,,
+Stephen Drew,2B,35.6,L,R,WSH,TBD,-,,
+Drew Storen,RP,31.2,S,R,CIN,TBD,-,,
+Andres Blanco,3B,34.6,S,R,SF,TBD,-,,
+Jeff Locke,RP,30.9,L,L,MIA,TBD,-,,
+Darwin Barney,SS,33.0,R,R,TEX,TBD,-,,
+Franklin Gutierrez,CF,35.7,R,R,LAD,TBD,-,,
+Scott Feldman,SP,35.7,L,R,CIN,TBD,-,,
+Dustin Ackley,2B,30.7,L,R,LAA,TBD,-,,
+Jon Singleton,1B,27.1,L,L,HOU,TBD,-,,
+Fernando Abad,RP,32.9,L,L,PHI,TBD,-,,
+Ichiro Suzuki,LF,45.0,L,R,SEA,TBD,-,,
+Geovany Soto,C,35.8,R,R,CHW,TBD,-,,
+Robbie Ross,RP,29.4,L,L,CHW,TBD,-,,
+Christian Friedrich,SP,31.3,R,L,SD,TBD,-,,
+Dustin McGowan,RP,36.6,R,R,TB,TBD,-,,
+Erick Aybar,SS,34.8,B,R,MIN,TBD,-,,
+Kevin Siegrist,RP,29.3,L,L,PIT,TBD,-,,
+Adam Lind,1B,35.3,L,L,BOS,TBD,-,,
+Mat Latos,SP,30.9,R,R,TOR,TBD,-,,
+Joba Chamberlain,RP,33.1,R,R,MIL,TBD,-,,
+Daniel Nava,LF,35.7,S,L,PIT,TBD,-,,
+Ruben Tejada,SS,29.0,R,R,BAL,TBD,-,,
+Ike Davis,1B,31.6,L,L,LAD,TBD,-,,
+Ryan Hanigan,C,38.2,R,R,SF,TBD,-,,
+Tom Milone,SP,31.7,L,L,NYM,TBD,-,,
+Alexi Amarista,SS,29.6,L,R,PHI,TBD,-,,
+Josh Collmenter,RP,32.7,R,R,ATL,TBD,-,,
+Zach Putnam,RP,31.3,R,R,CHW,TBD,-,,
+Tyler Moore,1B,31.8,R,R,MIA,TBD,-,,
+Tom Gorzelanny,RP,36.3,R,L,NYM,TBD,-,,
+Andrew Bailey,RP,34.4,R,R,LAA,TBD,-,,
+Kyle Kendrick,SP,34.2,R,R,BOS,TBD,-,,
+Tanner Scheppers,RP,31.8,R,R,TEX,TBD,-,,
+Hank Conger,C,30.8,B,R,ARI,TBD,-,,
+J.J. Hoover,RP,31.2,R,R,MIL,TBD,-,,
+Henderson Alvarez,SP,28.5,R,R,PHI,TBD,-,,
+Matt Reynolds,RP,34.1,L,L,SF,TBD,-,,
+Brendan Ryan,1B,36.6,R,R,DET,TBD,-,,
+Michael Kirkman,RP,32.1,L,L,ATL,TBD,-,,
+Jarred Cosart,RP,28.4,R,R,SD,TBD,-,,
+Enny Romero,RP,27.8,R,L,KC,TBD,-,,
+Ryan Schimpf,2B,30.6,L,R,LAA,TBD,-,,
+Mike Bolsinger,RP,30.8,R,R,TOR,TBD,-,,
+Ariel Miranda,SP,29.8,L,L,SEA,TBD,-,,
+Jarrett Parker,LF,29.8,L,L,SF,TBD,-,,
+Pedro Florimon,SS,31.9,S,R,PHI,TBD,-,,
+Lucas Harrell,RP,33.4,S,R,TOR,TBD,-,,
+Paul Janish,SS,36.0,R,R,BAL,TBD,-,,
+Steven Moya,RF,27.1,L,R,DET,TBD,-,,
+Vance Worley,RP,31.1,R,R,CIN,TBD,-,,
+Angel Sanchez,RP,28.9,,,PIT,TBD,-,,
+Shawn Morimando,RP,25.9,,,CLE,TBD,-,,
+Joely Rodriguez,RP,27.0,L,L,BAL,TBD,-,,
+Ryan Raburn,LF,37.5,R,R,WSH,TBD,-,,
+Mike Aviles,3B,37.6,R,R,MIA,TBD,-,,
+Jeanmar Gomez,RP,30.7,R,R,SEA,TBD,-,,
+Alberto Alburquerque,RP,32.4,R,R,CHW,TBD,-,,
+Rymer Liriano,RF,27.4,R,R,LAA,TBD,-,,
+Ramon Flores,CF,26.6,L,L,BOS,TBD,-,,
+Justin Marks,RP,30.8,L,L,LAD,TBD,-,,
+Dustin Coleman,2B,31.5,R,R,SD,TBD,-,,
+Carlos Moncrief,RF,30.0,L,R,SF,TBD,-,,
+Michael Ohlman,C,27.9,R,R,BOS,TBD,-,,
+Chris Smith,RP,37.6,,,OAK,TBD,-,,
+Taylor Davis,C,28.9,R,R,CHC,TBD,-,,
+Kevin Shackelford,RP,29.6,R,R,CIN,TBD,-,,
+O'Koyea Dickson,LF,28.7,R,R,LAD,TBD,-,,
+Felix Jorge,SP,24.8,R,R,MIN,TBD,-,,
+Roberto Gomez,RP,29.2,,,SF,TBD,-,,
+Seth Frankoff,P,30.2,,,SEA,TBD,-,,
+Jean Machi,RP,36.8,R,R,CHW,TBD,-,,
+Troy Scribner,RP,27.3,R,R,ARI,TBD,-,,
+Nolan Fontana,SS,27.4,L,R,LAA,TBD,-,,
+Cody Martin,RP,29.2,R,R,SEA,TBD,-,,
+Armando Rivero,RP,30.8,,,ATL,TBD,-,,
+Alec Asher,RP,27.1,R,R,MIL,TBD,-,,
+Severino Gonzalez,RP,26.1,R,R,MIA,TBD,-,,
+Kevin Jepsen,RP,34.3,R,R,TEX,TBD,-,,
+Diego Moreno,RP,31.3,,,CLE,TBD,-,,
+Darrell Ceciliani,CF,28.4,L,L,TOR,TBD,-,,
+Logan Verrett,RP,28.4,R,R,BAL,TBD,-,,
+Ernesto Frieri,RP,33.3,R,R,MIL,TBD,-,,
+Fernando Salas,RP,33.4,R,R,ARI,TBD,-,,
+Francisco Rodriguez,RP,36.8,R,R,PHI,TBD,-,,
+Tony Sanchez,C,30.4,R,R,ATL,TBD,-,,
+Tom Wilhelmsen,RP,34.9,R,R,SD,TBD,-,,
+David Holmberg,RP,27.3,R,L,CHW,TBD,-,,
+Preston Claiborne,RP,30.8,R,R,TEX,TBD,-,,
+Jason Motte,RP,36.4,R,R,STL,TBD,-,,
+Blaine Boyer,RP,37.3,R,R,KC,TBD,-,,
+Michael Saunders,LF,31.9,L,R,CHW,TBD,-,,
+Mike Morse,LF,36.6,R,R,SF,TBD,-,,
+Travis Snider,RF,30.8,L,L,NYM,TBD,-,,
+Jonathan Niese,RP,32.0,L,L,TEX,TBD,-,,
+James Loney,1B,34.5,L,L,ATL,TBD,-,,
+Wesley Wright,RP,33.8,R,L,TEX,TBD,-,,
+Jair Jurrjens,SP,32.8,,,LAD,TBD,-,,
+Domonic Brown,LF,31.2,L,L,COL,TBD,-,,
+Guillermo Quiroz,C,36.9,R,R,CLE,TBD,-,,
+Brian Matusz,RP,31.7,L,L,ARI,TBD,-,,
+Chris Johnson,3B,34.1,R,R,BAL,TBD,-,,
+Justin Masterson,RP,33.6,R,R,LAD,TBD,-,,
+Desmond Jennings,LF,32.0,R,R,NYM,TBD,-,,
+Drew Stubbs,CF,34.1,R,R,TEX,TBD,-,,
+Aaron Laffey,RP,33.5,,,ARI,TBD,-,,
+Adron Chambers,LF,32.1,,,PHI,TBD,-,,
+Ramon Troncoso,RP,35.7,,,LAD,TBD,-,,
+Elliot Johnson,2B,34.6,,,LAD,TBD,-,,
+Casper Wells,RF,33.9,,,DET,TBD,-,,
+Clint Robinson,1B,33.7,L,L,WSH,TBD,-,,
+Boomer White,2B,25.3,,,SD,TBD,-,,
+Connor Owings,OF,24.5,,,ARI,TBD,-,,
+Kyle Blanks,LF,32.1,R,R,SF,TBD,-,,
+Josmil Pinto,C,29.6,R,R,SF,TBD,-,,
+Ramon Castro,C,42.7,,,KC,TBD,-,,
+Esmil Rogers,RP,33.2,R,R,WSH,TBD,-,,
+Evan Meek,RP,35.5,R,R,WSH,TBD,-,,
+Sam Demel,RP,33.0,,,NYY,TBD,-,,
+Kyle Zimmer,RP,27.1,R,R,KC,TBD,-,,
+Marcos Molina,SP,23.6,,,NYM,TBD,-,,
+Richie Shaffer,3B,27.6,R,R,CLE,TBD,-,,
+Thad Weber,RP,34.1,R,R,COL,TBD,-,,
+Zack Weiss,RP,26.4,R,R,CIN,TBD,-,,
+Clay Mortensen,RP,33.6,,,KC,TBD,-,,
+Derek Norris,C,29.7,R,R,DET,TBD,-,,
+Cody Eppley,RP,33.1,,,PIT,TBD,-,,
+Melvin Upton,LF,34.2,R,R,CLE,TBD,-,,
+Lisalverto Bonilla,RP,28.4,S,R,CLE,TBD,-,,
+Vin Mazzaro,RP,32.1,R,R,CIN,TBD,-,,
+Antonio Bastardo,RP,33.1,R,L,ARI,TBD,-,,
+Chris Narveson,RP,36.9,L,L,CLE,TBD,-,,
+Danny Espinosa,SS,31.5,S,R,PHI,TBD,-,,
+Mark Lowe,RP,35.4,L,R,LAD,TBD,-,,
+Brayan Villarreal,SP,31.5,,,MIN,TBD,-,,
+Edgar Olmos,RP,28.6,L,L,BOS,TBD,-,,
+Evan Scribner,RP,33.3,R,R,TB,TBD,-,,
+Michael McKenry,C,33.7,R,R,TB,TBD,-,,
+Josh Roenicke,RP,36.2,,,LAA,TBD,-,,
+Chris Heisey,LF,33.9,R,R,MIN,TBD,-,,
+Micah Owings,SP,36.1,,,SEA,TBD,-,,
+Fernando Rodriguez,RP,34.4,R,R,BOS,TBD,-,,
+Fernando Martinez,RF,30.1,,,NYY,TBD,-,,
+Michael Nickeas,C,35.7,,,TOR,TBD,-,,
+Jose Ceda,RP,31.8,,,MIA,TBD,-,,
+Reid Brignac,3B,32.8,L,R,HOU,TBD,-,,
+Omar Infante,2B,36.9,R,R,DET,TBD,-,,
+Ryan Webb,RP,32.7,R,R,SF,TBD,-,,
+Tim Lincecum,RP,34.4,L,R,TEX,TBD,-,,
+Chris Dickerson,LF,36.6,L,L,BAL,TBD,-,,
+Everth Cabrera,SS,32.0,S,R,CHW,TBD,-,,
+Josh Outman,RP,34.1,L,L,WSH,TBD,-,,
+Neal Cotts,RP,38.6,L,L,WSH,TBD,-,,
+Steve Delabar,RP,35.3,R,R,TEX,TBD,-,,
+Josh Thole,C,32.0,L,R,ARI,TBD,-,,
