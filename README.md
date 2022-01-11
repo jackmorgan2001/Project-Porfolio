@@ -1,4 +1,4 @@
-# Project-Porfolio
+# Project-Porftolio
 A collection of in and out of class projects
 
 This github repo holds a few of the coding projects I have completed in the past year. Two projects are completed in C, one in MIPS, and one using python for data science. Each folder has a description to give more detail about each project within them. Moreover, I have included a brief video that showcases a website I have been building using the Webflow application for a company. As I have not received all data yet, the homepage remains unfinished.
