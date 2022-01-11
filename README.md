@@ -5,4 +5,6 @@ This github repo holds a few of the coding projects I have completed in the past
 
 In addition to these uploaded projects, I am currently a undergraduate teaching assistant for Duke University's data structures and algorithms course which is taught in Java. Java is my strongest language, and I have completed multiple projects within this class. However, they are difficult to navigate and some of the code is written by the course administrators, so I decided not to include them.
 
+Finally, I have also completed an internship at Amazon Robotics in high school where my main project was to redesign an internal tool management website in order to expedite the testing process of my team members. I used raw HTML, CSS, JavaScript, and calls to APIs to combine previous virtual tools, create a tool search page, and make the website far more appealing. As a member of the software quality assurance team, my project helped to make the lives of my team members easier. I no longer have code or videos of this website due to company/confidentiality reasons.
+
 Please let me know if you have any questions. My email is john.morgan@duke.edu
