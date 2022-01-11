@@ -1,0 +1,12 @@
+---
+:id: 74476749
+:submitters:
+- :name: Jack Morgan
+  :email: john.morgan@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-13 02:33:16.690326000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-12 19:33:16.690326000 Z
+:status: processed
+:score: 110.0
